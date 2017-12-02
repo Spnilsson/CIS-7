@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\spnil\documents\github\cis-7\assignments\assignment 19\assignment 19\main.cpp(18): error C3867: 'Tree::rootNode': non-standard syntax; use '&' to create a pointer to member
+  Tree.cpp
+  Generating Code...
